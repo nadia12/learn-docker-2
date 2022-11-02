@@ -1,0 +1,5 @@
+{
+  "name": "learn-ci-cd",
+  "script": "./bin/www",
+  "instances": "1"
+}
